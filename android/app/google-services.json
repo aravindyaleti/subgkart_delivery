@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "854028131479",
+    "firebase_url": "https://subgkart.firebaseio.com",
+    "project_id": "subgkart",
+    "storage_bucket": "subgkart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854028131479:android:225380160329f2d7b9ddd2",
+        "android_client_info": {
+          "package_name": "com.diatus.subgkart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854028131479-32mau7q1a5vaod97uhmfdrdbuc4qm345.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diatus.subgkart",
+            "certificate_hash": "d1c5ff550cb0507c5b925daf61b1c44cb320f315"
+          }
+        },
+        {
+          "client_id": "854028131479-epvbbjeq5f3seka1nn5oginhage1h1vr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diatus.subgkart",
+            "certificate_hash": "c8e4e9ef06ae24cba8549f5740a5a052185227aa"
+          }
+        },
+        {
+          "client_id": "854028131479-k998likre3iadp37u6t7hgetghq68kus.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.diatus.subgkart",
+            "certificate_hash": "0950776044b264c40787239685e3124892a943b7"
+          }
+        },
+        {
+          "client_id": "854028131479-clc4dm7ofbk29rau1qecuvg2o7r61cqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDa-dyNPmN5hN9NqdgbIzwjwF4It8Opg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854028131479-clc4dm7ofbk29rau1qecuvg2o7r61cqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854028131479:android:223a5eff0d92c9e9b9ddd2",
+        "android_client_info": {
+          "package_name": "com.diatus.subgkart_delivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "854028131479-clc4dm7ofbk29rau1qecuvg2o7r61cqt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzDa-dyNPmN5hN9NqdgbIzwjwF4It8Opg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "854028131479-clc4dm7ofbk29rau1qecuvg2o7r61cqt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
